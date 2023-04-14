@@ -33,6 +33,7 @@ It's important to choose a beginner-friendly RC airplane that matches your skill
 * PNP (Plug-aNd-Play) No receiver. For people who use a different protocol radio to the one used by the plane manufacturer.
 * ARTF (Almost-Ready-To-Fly). These often don't come with any electronics, but construction is still just gluing a few large foam pieces together. Ideal if you have lots of electronics salvaged from a previous model.
 
+
 4. How do I choose a battery charger?
 The chargers that come with RTF planes are very basic. Typically they only work for one size of battery, and they don't give any feedback. Good chargers will work with a range of battery chemistry, voltages and currents, and will report on charging progress and state of balance.
 The iMax B6 has been the most popular first charger for about 15 years, but is starting to look a bit dated now. It will probably work for most people but is less powerful than modern chargers.
@@ -40,6 +41,15 @@ iDST and Toolkit both make good modern chargers. They are small but powerful, wi
 The extra power is useful as it allows you to charge multiple batteries at the same time, with a parallel charging board. While the 50W iMax B6 might be limited to 2 or 3 batteries, a 200W charger could charge 6-10 batteries.
 You can buy chargers that run either from AC (mains) or DC (such as a car battery). DC chargers allow you to use the charger in the field, when you're flying. Old laptop power supplies work well for to power them, if you have one, or you can buy a DC power supply for about the difference between an AC and DC charger.
 XT60 is by far the most popular battery connector at the moment but some batteries come without a plug, so you can add your own.
+
+
+4. What transmitter should I buy?
+If you buy a RTF plane, the transmitter it comes with will be very basic. Even if it could work with another model, converting from one to another is not a simple process that you can do between flights. So an RTF transmitter might make sense if your initial budget is limited, but you'll want something better quite soon. Many people decide to start with a transmitter that will last a few years.
+Traditional RC manufacturers offer a range of radios, from a basic 6 channel radio with basic features, up to expensive models with more channels and more features. However over the last 10 years, Open Source firmware has been available, allowing manufactuers to offer radios with all the features of a high-end model, for the price of a low-end model.
+* Jumper, RadioMaster and FrSky offer open source radios. These all have similar firmware features, with the hardware offering a choice of form factor, screen size, gimbal quality and battery size. They are available in 'multi-protocol' variant that are compatible with Spektrum and FlySky receivers. ELRS variants are for flying beyond visual range, and not normally for beginners.
+* FlySky have simple, low end radios that are good enough for most people, but are now similar price to the cheapest open source radios.
+* Spektrum used to be the market leader, but even their 'economy' DX6e is more expensive than the best open source radios. Their DXS transmitter that is supplied with RTF models only adds about $20 to the price of the model, so is a reasonable low-cost entry point, if you don't mind upgrading in a few months. Unlike almost all other brands, Spektrum have quite good service and support.
+
 
 5.	Where can I buy RC airplanes?
 •	Share recommendations for reliable online and offline sources to purchase RC airplanes, including hobby shops, online marketplaces, and specialty stores.
