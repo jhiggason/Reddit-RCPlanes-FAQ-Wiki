@@ -22,7 +22,7 @@ High-wing trainers are known for their stability and ease of control, making the
 Here are a few popular options:
 *.	HobbyZone Sport Cub S: This is a popular micro RTF. It has a durable construction, self-leveling technology known as SAFE (Sensor Assisted Flight Envelope) that helps prevent crashes.
 *.	E-flite Apprentice STS: This is another popular RTF model that offers a more advanced option for beginners. It features a larger wingspan and more powerful motor, allowing for smoother and more stable flights. It also includes SAFE technology, and comes with a Spektrum DXe transmitter, which can be used with other Spektrum receivers for future planes.
-*.  E-flite Aeroscout S2 1.1m: Similar to the Apprentice except less realistic appearance. The propeller is behind the wing, so it (and the motor) is less likely to be damaged in a crash.
+*.	E-flite Aeroscout S2 1.1m: Similar to the Apprentice except less realistic appearance. The propeller is behind the wing, so it (and the motor) is less likely to be damaged in a crash.
 *.	FMS Sky Trainer 182: This is a scale model of the Cessna 182, known for its realistic looks and smooth flying characteristics. It's available in both RTF and PNP (Plug-N-Play) versions, and offers a great balance between stability and performance for beginners.
 *.	Flyzone Sensei FS: This is a versatile trainer plane that comes in both RTF and PNP versions. It offers a durable foam construction, brushless motor, and flaps for improved control during takeoff and landing. It also has a large wingspan for added stability and is capable of aerobatics once you gain more experience.
 It's important to choose a beginner-friendly RC airplane that matches your skill level and interests, and always follow the manufacturer's recommendations and safety guidelines. Additionally, consider joining online communities, such as the subreddit for RC airplanes, to connect with experienced users who can provide further advice and support as you start your RC flying journey.
@@ -59,6 +59,22 @@ Traditional RC manufacturers offer a range of radios, from a basic 6 channel rad
 
 7.	How do I fly an RC airplane?
 •	Provide basic information on how to fly an RC airplane safely, including pre-flight checks, controls, takeoff, landing, and troubleshooting tips. Also, emphasize the importance of adhering to local regulations and safety guidelines.
+
+7.1 What should I check before flying?
+* Control surfaces move in the right direction. For example, if you move the aileron stick right, the right hand aileron should move up. If you pull the stick back, the elevator should move up. 
+* Control surfaces move the right amount. This is usually defined in the manual or plan.
+* Control surfaces linkages and hinges are secure. Foam hinges often rip, control horns and servos come loose, and linkages can become detached. A new model is probably fine, but you should check them at the start of each flying session.
+* Centre of gravity. The plans or instructions will tell you where the plane should balance. Mark this on the underside of the wing on both sides, and check whether the plane will balance on your fingertips. If there's range, the forward end of the range is more stable and better for your first flight.
+* Failsafe: with the prop removed, run the motor and turn off the transmitter to simulate loss of signal. The motor must stop, although a short delay is acceptable.
+* Range: most radios have a range test facility that causes it to transmit at very low power. Enable this, power up the model on the gorund and check you still have control at the specified range (normally 30 paces)
+
+7.2 Any advice for my first flight?
+* You need a big field, and as little wind as possible. If you could fly a kite, it's much too windy.
+* Take off into the wind and keep the plane up wind of your position. That way the wind will blow it back towards you when you make a mistake. It is harder to fly a plane towards you from downwind. If you get into that situation, cut the power and crash rather than lose the plane. You can repair crash damage but not a lost model. If you can't reliably keep the plane upwind of yourself, its too windy.
+* Don't fly in circles as plane will cover a lot more distance on the downwind side of the circle and take a long time to fly back upwind. Fly back and forth in a long figure-8 shape, making all turns into the wind.
+* If you try to straighten up after a turn and the plane instead goes into a tighter turn, you are steering the wrong way! This is a common mistake when the plane is flying towards you.
+* Assuming you can manage the wind, keep the plane '3 mistakes' high. There's nothing to hit up there, and most trainers will self-level to some degree if they have enough height.
+* Land into the wind to minimise the ground speed. Keep the wings level and the power off, and it should be gentle enough. Initially, don't worry about how far you have to walk to the plane!
 
 8.	How do I maintain and troubleshoot my RC airplane?
 •	Share best practices for maintaining and troubleshooting RC airplanes, including tips on cleaning, repairing, and replacing components, as well as troubleshooting common issues and seeking help from experienced users.
